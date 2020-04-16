@@ -1,7 +1,9 @@
-/*  */
-
-
-
+/*Prompt user to enter a speed
+Have different categories of speed
+Match user input to a category of speed
+print out speed that matches category
+If user speed does not match category print too weak
+ */
 
 
 import java.util.Scanner;
